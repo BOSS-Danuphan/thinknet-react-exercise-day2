@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test initial state Set state when disable life cycle 1`] = `
+<div
+  id="card"
+>
+  <h1
+    id="title"
+  />
+  <p
+    id="body"
+  />
+  <p
+    id="page"
+  >
+    10
+  </p>
+</div>
+`;

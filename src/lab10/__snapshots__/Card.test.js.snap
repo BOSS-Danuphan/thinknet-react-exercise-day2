@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match its snapshot  1`] = `
+<div
+  className="find-me"
+>
+  <h1
+    id="title"
+  >
+    My Title
+  </h1>
+  <p
+    id="body"
+  >
+    body
+  </p>
+</div>
+`;

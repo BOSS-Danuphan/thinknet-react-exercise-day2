@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot testing 1`] = `
+<styled.h1>
+  Gallery
+</styled.h1>
+`;
+
+exports[`Snapshot testing 2`] = `
+.c0 {
+  color: red;
+  font-size: 10px;
+}
+
+<h1
+  className="c0"
+/>
+`;
